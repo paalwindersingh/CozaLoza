@@ -19,7 +19,6 @@ namespace CozaLozaApplication
                 Console.WriteLine();
             }
         }
-
       }
    }
 }
