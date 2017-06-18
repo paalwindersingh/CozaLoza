@@ -19,7 +19,7 @@ namespace CozaLozaApplication
                 Console.WriteLine();
             }
         }
-        
+
       }
    }
 }
